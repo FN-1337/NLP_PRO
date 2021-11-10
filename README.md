@@ -48,7 +48,7 @@ Be sure to:
 
 1. Lowercase each word.
 2. Remove punctuation.
-3. Remove stop words.
+3. Remove stop words
 
 #### N-grams
 
